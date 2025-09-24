@@ -8,7 +8,7 @@ The Campus Course & Records Manager (CCRM) is a full-fledged, console-based Java
 
 Designed using a clean architecture with multiple layers, CCRM separates data models (domain), service logic (service), and user interaction (CLI), thereby promoting maintainability and scalability. It tries to marry curiosity on modern Java SE development with a couple of object-oriented principle concepts, Singleton design pattern, Builder design pattern, Exception handling, and a huge array of APIs (Java Streams for data processing and NIO.2 to optimize file I/O). All the application data is persisted on local CSV files, which enable the conversion of states to be saved or loaded from one session to another.
 
-<img width="829" height="918" alt="image" src="https://github.com/user-attachments/assets/cec6c645-71bc-43ec-9a3e-5f327750457a" />
+<img width="829" height="918" alt="image" src="https://github.com/user-attachments/assets/32f4e8c4-d806-43d1-aa79-10875f3ad190" />
 
 
 ---
@@ -65,7 +65,7 @@ Designed using a clean architecture with multiple layers, CCRM separates data mo
 2.  Run the installer and follow the on-screen instructions.
 3.  Verify the installation by opening a Command Prompt and running `java -version`.
 
-<img width="1220" height="648" alt="image" src="https://github.com/user-attachments/assets/2da1901c-1dab-45d8-b78e-9fd6143971c8" />
+<img width="1220" height="648" alt="image" src="https://github.com/user-attachments/assets/5bb9a410-b516-49cd-b036-53974d9008fa" />
 
 
 ### Eclipse Setup Steps
@@ -73,7 +73,7 @@ Designed using a clean architecture with multiple layers, CCRM separates data mo
 2.  The project structure will appear in the "Package Explorer".
 3.  To run, right-click `CrmApplication.java` and select `Run As -> Java Application`.
 
-<img width="636" height="638" alt="image" src="https://github.com/user-attachments/assets/3576420c-cc9a-4337-abc8-d27f8bc669f5" />
+<img width="636" height="638" alt="image" src="https://github.com/user-attachments/assets/4e6a4a09-8526-4813-9a7a-ae5f1784ecfa" />
 
 
 ---
@@ -85,7 +85,7 @@ To enable assertions for internal checks:
 3.  Go to the **`Arguments`** tab.
 4.  In the **`VM arguments`** box, add the flag: **`-ea`**.
 
-<img width="786" height="638" alt="image" src="https://github.com/user-attachments/assets/b8d1b694-0f04-45d9-b5f9-9a4e790458a3" />
+<img width="786" height="638" alt="image" src="https://github.com/user-attachments/assets/f0fe73d3-6dc0-40df-85a6-a42af72dcdc7" />
 
 
 ---
